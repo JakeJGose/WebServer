@@ -111,7 +111,7 @@ margin: 0;
  
  .menu-bar {
  background-color: black;
- color: black;
+ color: white;
  padding: 7px;
  }
  
@@ -119,6 +119,11 @@ margin: 0;
  max-width: 800px;
  margin-left: auto;
  margin-right: auto;
+ }
+ 
+ .menu-bar nav a{
+ color: white;
+ text-decoration: none;
  }
  
  .menu-bar nav a:hover {
